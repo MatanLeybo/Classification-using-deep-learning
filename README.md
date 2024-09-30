@@ -1,6 +1,6 @@
 # Classification-using-deep-learning
 Using Cats vs Dog DB for Classification by using CNN and optimizing accuracy with different method.
-In this project, I was able to achieve a classifier accuracy of 94.64% without using pre-existing models.
+In this project, I was able to achieve a classifier accuracy of 94.64% by making my own model.
 
 By building an appropriate neural network (with convolutional and max pooling layers) suitable for image classification, and using techniques 
 to optimize the training process:
